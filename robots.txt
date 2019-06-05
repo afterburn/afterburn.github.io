@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://afterburn.github.io/sitemap_index.xml
